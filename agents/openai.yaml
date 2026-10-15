@@ -1,0 +1,6 @@
+interface:
+  display_name: "Jack叔叔skill"
+  short_description: "解释六年之约，用 Jack 公开内容中的设问、行动拆解和记录方法陪跑"
+  default_prompt: "用 $jack-uncle-skill 解释六年之约，并帮我把一个长期目标拆成今天能开始的行动。"
+policy:
+  allow_implicit_invocation: true
